@@ -1,6 +1,6 @@
 # Some-data-science-projects-exercises
 
-*#Machine Learning Fellowship projects in first two directories.__ 
+*#Machine Learning Fellowship projects in first two directories.<br />
 *#Python dataframe excerszes__
 *#SQL exercises
 *#How Chat GPT-3.5 is used for question answers
