@@ -1,4 +1,4 @@
-# Some-data-science-projects-exercises
+# ChatGPT 
 
 Machine Learning Fellowship projects in first two directories.<br />
 Python dataframe excerszes <br />
